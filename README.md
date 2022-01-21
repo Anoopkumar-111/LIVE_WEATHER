@@ -1,4 +1,4 @@
-LIVE WEATHER APP created using openweathermap API , ReactJS , HTML , Css, JSX 
+LIVE WEATHER APP created using openweathermap API , ReactJS , HTML , Css
 
 STEPS TO USE THIS APP
   Simply type city name and press enter 
